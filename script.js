@@ -12,5 +12,4 @@ function CaraCoroa (){
         moeda.src = "./assets/tails.svg"
         lado.innerHTML = `Tails`
     }
-    // lado.innerHTML += `<br/><span>${random}</span>`
 }
